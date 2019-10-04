@@ -1,0 +1,14 @@
+Button;obj\Debug\80\res\layout\activity_main.xml
+color;obj\Debug\80\res\values\colors.xml
+color;obj\Debug\80\res\values\ic_launcher_background.xml
+EditText;obj\Debug\80\res\layout\activity_main.xml
+item;obj\Debug\80\res\values\styles.xml
+LinearLayout;obj\Debug\80\res\layout\activity_main.xml
+RelativeLayout;obj\Debug\80\res\layout\activity_main.xml
+resources;obj\Debug\80\res\values\colors.xml
+resources;obj\Debug\80\res\values\ic_launcher_background.xml
+resources;obj\Debug\80\res\values\strings.xml
+resources;obj\Debug\80\res\values\styles.xml
+string;obj\Debug\80\res\values\strings.xml
+style;obj\Debug\80\res\values\styles.xml
+TextView;obj\Debug\80\res\layout\activity_main.xml

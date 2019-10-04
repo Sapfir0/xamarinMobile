@@ -1,0 +1,50 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Sapfir\\RiderProjects\\dec2bin\\dec2bin\\dec2bin.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Sapfir\\RiderProjects\\dec2bin\\dec2bin\\dec2bin.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sapfir\\RiderProjects\\dec2bin\\dec2bin\\dec2bin.csproj",
+        "projectName": "dec2bin",
+        "projectPath": "C:\\Users\\Sapfir\\RiderProjects\\dec2bin\\dec2bin\\dec2bin.csproj",
+        "packagesPath": "C:\\Users\\Sapfir\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sapfir\\RiderProjects\\dec2bin\\dec2bin\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Sapfir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid80"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid80": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid80": {
+          "dependencies": {
+            "Xamarin.Android.Support.Design": {
+              "target": "Package",
+              "version": "[26.1.0.1, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

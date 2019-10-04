@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:crossPlatform"
+             x:Class="crossPlatform.MainPage">
+
+    <StackLayout Orientation="Vertical" Spacing="0">
+        <Label>Decimal</Label>
+        <Entry x:Name="editDecimal" Placeholder="Decimal number" Keyboard="Numeric"></Entry>
+        <Label>Binary</Label>
+        <Entry x:Name="editBinary" Placeholder="Binary" Keyboard="Numeric"></Entry>
+        <Button x:Name="convertBtn" Text="Convert" Clicked="ConvertBtn_OnClicked"></Button>
+        <Grid Padding="20">
+            <local:PinchToZoomContainer>
+                <local:PinchToZoomContainer.Content>
+                    <Image Source="untitled.PNG" />
+                </local:PinchToZoomContainer.Content>
+            </local:PinchToZoomContainer>
+        </Grid>
+
+        
+
+    </StackLayout>
+
+</ContentPage>

@@ -1,2 +1,7 @@
 ﻿.idea
 AndroidBlankApp2/obj/Debug
+crossPlatform/crossPlatform.Android/bin/
+crossPlatform/crossPlatform.Android/obj/
+crossPlatform/crossPlatform.iOS/obj/
+crossPlatform/crossPlatform/bin/
+crossPlatform/crossPlatform/obj/
